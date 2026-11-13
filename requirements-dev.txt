@@ -1,0 +1,4 @@
+# Development and CI tools
+-r requirements.txt
+pytest
+ruff

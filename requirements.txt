@@ -1,0 +1,8 @@
+# Runtime dependencies
+ultralytics
+opencv-python
+numpy
+onnxruntime
+fastapi
+uvicorn
+python-multipart
