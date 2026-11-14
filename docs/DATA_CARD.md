@@ -8,8 +8,8 @@ and inspected.
 ### 1.1 Open Images V7 (primary)
 
 - Source: https://storage.googleapis.com/openimages/web/index.html
-- Classes used: "Human face" (/m/0dzct) and "Vehicle registration plate"
-  (/m/01jfm\_). Both are in the official list of boxable classes.
+- Classes used: "Human face" (`/m/0dzct`) and "Vehicle registration plate"
+  (`/m/01jfm_`). Both are in the official list of boxable classes.
 - Annotation format: CSV with normalized boxes (XMin, XMax, YMin, YMax),
   plus flags such as IsOccluded, IsTruncated, IsGroupOf, IsDepiction.
 - Image license: stored per image in the image information file (License
